@@ -1,0 +1,223 @@
+Conditional Statements
+======================
+simple if
+
+syntax:
+-------
+if(condition)
+{
+	block of statements
+}
+
+if else
+syntax:
+-------
+if(condition)
+{
+	block of statements
+}
+else
+{
+    block of statements
+}
+Nested if
+syntax:
+-------
+if(condition)
+{
+	if(condition)
+	{
+		block of statements
+	}
+	else
+	{
+		block of statements
+	}
+}
+else
+{
+	block of statements
+}
+else if ladder
+syntax:
+-------
+if(condition)
+{
+	block of statements
+}
+else if(condition)
+{
+    block of statements
+}
+else
+{
+	block of statements
+}
+
+switch
+------
+syntax:
+-------
+switch(operation (or) operand)
+{
+	case 1:block of statements
+	       break;
+	case 2:block of statements
+	       break;
+	       
+	case n:block of statements
+		   break;
+	default:statement
+}
+
+
+//Probelm statement
+
+---> We should have to read one value from the user
+---> we should have to compare
+      --> if user enter the value 5
+           ---> print  welcome to programming
+
+---> one variable --->one value
+        
+        n         ---> 5
+        
+        n==5   
+        
+        welcome to programming
+        
+        
+        n      ----> 1
+        
+--->  we should have to read one value from the user
+
+       --> check the check weather the value is even or odd
+          
+            --> if it is even we should have to print the entered vale is even number
+            
+            --> if it is odd we should have to print the entered value is odd number
+            
+            
+            
+                   
+         2 4 6 8 10 12 
+         1 3 5 7 9 11
+         
+         
+         
+         2)48(24
+           48
+           --
+            0
+            
+            2)49(24
+              48
+              --
+               1
+         
+         
+         
+         % ----> to find the remainder value
+         
+         
+         
+         
+         
+ --->    we should have to read one value from the user
+ 
+        ---> check the value weather it is positive or negitive or zero
+          
+             ---> if it is positive we should have to print enterd value is positive
+             
+             ---> if it negative we should have to print entered value is negative
+             
+             ---> if it is zero we should have to print entered value is zero
+             
+            2 values
+            
+            ---> n,m 
+                  
+            1 value
+            
+            choice  --> 1  Addition n+m
+                   2  Sub   n-m
+                   3  Multi  n*m
+                   4  Division  n/m
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        
+        
+        
+        
+
+
+n=145879
+
+count=6
+
+n=5678
+
+count=4
+
+n=95423/10
+
+n=9542/10    1 digit delete
+
+n=954/10
+
+n=95/10
+
+n=9/10
+
+n=0
+
+
+sum of digits
+
+n=42357
+
+4+2+3+5+7
+
+sum=21
+
+n=123
+
+sum=6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

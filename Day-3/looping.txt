@@ -1,0 +1,57 @@
+loops/iterative statements
+==========================
+	to do a work multiple times based upon condition
+	1.for
+	2.while
+	3.do while
+1.intialisation
+2.condition
+3.updation
+
+
+1.for loop syntax:
+for(intialisation;condition;updation)
+{
+	statements;
+}
+min execution times=0
+
+
+2.while loop syntax:
+intialisation
+while(condition)
+{
+	statements;
+	updation;
+}
+min executuion times=0
+
+
+3.do-while syntax:
+intialisation
+do{
+	staments;
+	updation;
+}while(condition);
+min execution times=1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
