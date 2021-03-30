@@ -1,0 +1,27 @@
+Strings:-
+=========
+	-group of charecters
+	-string can be represented as 1-d chareceter array
+	->strlen()-length of given str
+	->strcpy()-to copy the string
+	->strcat()-to concatinate two string
+	->strrev()-to reverse given str
+	->string.h->%s
+	
+	
+declaration of Str:
+===================
+char st[]={'c','h','a','r'}
+char st1[3]={'c','h','a','r'}
+char st[]="inti ";
+
+scanf()
+gets()
+
+printf()
+puts()
+
+
+
+
+
